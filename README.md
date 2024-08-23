@@ -7,7 +7,7 @@
 6.nodemon
 7.express-session
 8.multer
-9.papaparse <br/ >
+9.papaparse
 10.connect-flash
 
 **Run my project**
